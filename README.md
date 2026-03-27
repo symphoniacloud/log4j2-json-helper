@@ -1,5 +1,7 @@
 # log4j2-json-helper
 
+**THIS REPOSITORY IS ARCHIVED AND UNMAINTANED. IT MAY NO LONGER WORK WITH RELEVANT DEPENDENCIES AND SERVICES. IT MAY SPECIFY INSECURE LIBRARY DEPENDENCIES.**
+
 [![Maven Central](https://img.shields.io/maven-central/v/io.symphonia/log4j2-json-helper.svg)](https://search.maven.org/artifact/io.symphonia/log4j2-json-helper)
 
 A very tiny library (just one class!) to make using Log4J2's JsonLayout a little less painful via a thin wrapper around `Logger` and a varargs method for providing JSON keys and values to the underlying logger.
